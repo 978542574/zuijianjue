@@ -8,5 +8,7 @@ public class testdao {
         List<String> l=new ArrayList<>();
         l.add("apper");
         System.out.println("只要自己的");
+        System.out.println("只要自己的2");
+        System.out.println("只要自己的3");
     }
 }
